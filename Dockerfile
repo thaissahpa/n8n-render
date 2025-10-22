@@ -1,5 +1,5 @@
 # Imagem base oficial do n8n
-FROM n8nio/n8n:latest
+FROM docker.io/n8nio/n8n:latest
 
 # Define a porta padrão
 EXPOSE 5678
